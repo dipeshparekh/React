@@ -1,0 +1,5 @@
+export { default as Home } from "./Home";
+export { default as Product } from "./Product";
+export { default as ContactPage } from "./ContactPage";
+export { default as Cart } from "./Cart";
+export { default as PageNotFound } from "./PageNotFound";
